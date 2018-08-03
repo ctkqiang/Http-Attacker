@@ -10,8 +10,7 @@ Usage:
     py -2 attack.py <website> <port>
 
 You can change the threads in attack.py if you want.
-Just change:
 
-        thread_num = 800 
-        
+Open the attack.py:
+
         thread_num = <number>
