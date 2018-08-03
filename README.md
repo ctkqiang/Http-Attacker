@@ -4,7 +4,7 @@ Usage:
     
   Linux:
  
-    python2 attack.py <website> <port>
+    python2 attack.py <website> <threads>
  Windows:
  
-    py -2 attack.py <website> <port>
+    py -2 attack.py <website> <threads>
