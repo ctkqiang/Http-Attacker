@@ -1,5 +1,5 @@
 This python can attack http website.
-
+When attacking it occurs error, that is ok. 
 Usage:
     
   Linux:
