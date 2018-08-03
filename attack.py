@@ -1,6 +1,5 @@
 import threading
 import requests
-import json
 import sys
 thread_num = 800
 def run():
