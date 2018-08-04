@@ -19,7 +19,7 @@ Open the attack.py:
 
         thread_num = <number>
 
-test2.py i used urllib3 to attack
+test2.py is used urllib3 to attack
 
 You need to change the webite in the python
 
