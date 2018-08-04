@@ -1,6 +1,8 @@
 This python can attack http website.
 
+
 When attacking it occurs error, that is ok. 
+
 
 Usage:
     
@@ -16,3 +18,12 @@ You can change the threads in attack.py if you want.
 Open the attack.py:
 
         thread_num = <number>
+
+test2.py i used urllib3 to attack
+
+You need to change the webite in the python
+
+        r = http.request('GET','http://<website>')
+Usage:
+
+        python2 test2.py
