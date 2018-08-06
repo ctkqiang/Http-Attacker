@@ -8,16 +8,10 @@ Usage:
     
   Linux:
  
-    python2 attack.py <website> <port>
+    python2 attack.py
  Windows:
  
-    py -2 attack.py <website> <port>
-
-You can change the threads in attack.py if you want.
-
-Open the attack.py:
-
-        thread_num = <number>
+    py -2 attack.py
 
 test2.py is used urllib3 to attack
 
