@@ -6,10 +6,10 @@ When attacking it occurs error, that is ok.
 
 # Usage:
     
-  # Linux:
+   Linux:
  
     python2 attack.py
- # Windows:
+  Windows:
  
     py -2 attack.py
 # New things
