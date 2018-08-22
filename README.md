@@ -4,20 +4,15 @@ This python can attack http website.
 When attacking it occurs error, that is ok. 
 
 
-Usage:
+# Usage:
     
-  Linux:
+  # Linux:
  
     python2 attack.py
- Windows:
+ # Windows:
  
     py -2 attack.py
-
-test2.py is used urllib3 to attack
-
-You need to change the webite in the python
-
-        r = http.request('GET','http://<website>')
-Usage:
-
-        python2 test2.py
+# New things
+   I create another attacking tool by using urlliib3.
+# Usage
+    python2 Attack2.py
