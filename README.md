@@ -13,6 +13,6 @@ When attacking it occurs error, that is ok.
  
     py -2 attack.py
 # New things
-   I create another attacking tool by using urlliib3.
+   I create another attacking tool by using urllib3.
 # Usage
     python2 Attack2.py
