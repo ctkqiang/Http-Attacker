@@ -1,6 +1,7 @@
 import threading
 import urllib3
 import sys
+import random
 print '''###############################
 ######  ######     Attack2    #
 ##### () #####   by LeeOn123  #
